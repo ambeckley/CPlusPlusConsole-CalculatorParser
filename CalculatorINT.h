@@ -1,6 +1,6 @@
 #pragma once
 ///
-/// @file      calculator.hpp
+/// @file      calculatorINT.h
 /// @brief     calculator::eval(const std::string&) evaluates an integer
 ///            arithmetic expression and returns the result. If an error
 ///            occurs a calculator::error exception is thrown.
